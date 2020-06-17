@@ -1,2 +1,3 @@
-# my-portfolio
-This is a Serverless AWS portfolio
+# AWS serverless with React JS
+
+This is a Serverless AWS portfolio :Daftpunktocat-Guy
